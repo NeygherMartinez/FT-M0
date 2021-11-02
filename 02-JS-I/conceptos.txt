@@ -1,0 +1,28 @@
+¿Qué es una variable?
+Una Variable puede compararse con un recipiente al que se le pone un nombre
+y dentro de él se guarda información, que después se puede usar e incluso 
+cambiar por otro tipo de información.  
+Cada recipiente se convierte en una especie de bloque que se puede usar infinitas
+veces, como pieza de engranaje para crear un programa.
+
+¿Qué es un String?
+Un String son una serie de letras, números o símbolos que generalmente forman 
+una palabra o una frase y es una de las maneras en que se guarda información en 
+las variables.  
+Para guardar información de tipo string en una variable, es requisito 
+encerrarla entre comillas (pueden ser dobles o sencillas)
+
+¿Qué es una Función?
+Es una parte de un programa, que realiza una operación 
+independiente (generalmente es calcular o determinar un valor); la cual está 
+compuesta por argumentos o parámetros, un código que indica la operación a 
+realizar y el resultado o producto de la función al cual se le denomina valor 
+de retorno.
+
+¿Qué es la expresión If?
+If es una expresión que sirve para establecer una condición, 
+si la condición se cumple o no da paso o no a un procedimiento determinado.
+
+¿Qué son los valores booleanos?
+Son un tipo de dato que puede tomar solo uno de dos valores (Lógica Binaria) 
+en programación es False o true (Verdadero o Falso)
